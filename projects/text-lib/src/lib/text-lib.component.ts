@@ -3,7 +3,7 @@ import { Component, OnInit, Input } from '@angular/core';
 @Component({
   selector: 'lib-text-lib',
   template: `
-    <p>{{customText}}</p>
+    <div>{{customText}}</div>
   `,
   styles: []
 })
@@ -17,4 +17,3 @@ export class TextLibComponent implements OnInit {
   }
 
 }
- 
