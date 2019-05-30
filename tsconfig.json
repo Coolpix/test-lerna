@@ -17,6 +17,20 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "text-lib": [
+        "dist/text-lib"
+      ],
+      "text-lib/*": [
+        "dist/text-lib/*"
+      ],
+      "form-lib": [
+        "dist/form-lib"
+      ],
+      "form-lib/*": [
+        "dist/form-lib/*"
+      ]
+    }
   }
 }
