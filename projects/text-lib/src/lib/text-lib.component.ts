@@ -1,15 +1,15 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'lib-text-lib',
   template: `
-    <p>
-      text-lib works!
-    </p>
+    <p>{{customText}}</p>
   `,
   styles: []
 })
 export class TextLibComponent implements OnInit {
+
+  @Input() customText: string;
 
   constructor() { }
 
@@ -17,3 +17,4 @@ export class TextLibComponent implements OnInit {
   }
 
 }
+ 
