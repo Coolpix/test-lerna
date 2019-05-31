@@ -19,16 +19,16 @@
       "dom"
     ],
     "paths": {
-      "text-lib": [
+      "@atmira/text-lib": [
         "dist/text-lib"
       ],
-      "text-lib/*": [
+      "@atmira/text-lib/*": [
         "dist/text-lib/*"
       ],
-      "form-lib": [
+      "@atmira/form-lib": [
         "dist/form-lib"
       ],
-      "form-lib/*": [
+      "@atmira/form-lib/*": [
         "dist/form-lib/*"
       ]
     }

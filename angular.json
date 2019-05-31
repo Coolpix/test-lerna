@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "text-lib": {
+    "@atmira/text-lib": {
       "root": "projects/text-lib",
       "sourceRoot": "projects/text-lib/src",
       "projectType": "library",
@@ -38,7 +38,7 @@
         }
       }
     },
-    "form-lib": {
+    "@atmira/form-lib": {
       "root": "projects/form-lib",
       "sourceRoot": "projects/form-lib/src",
       "projectType": "library",
@@ -74,5 +74,5 @@
       }
     }
   },
-  "defaultProject": "text-lib"
+  "defaultProject": "@atmira/text-lib"
 }

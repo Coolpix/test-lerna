@@ -4,14 +4,15 @@ import { Component, OnInit } from '@angular/core';
   selector: 'lib-form-lib',
   template: `
     <p>
-      form-lib works!
+      form-lib works!!
     </p>
   `,
   styles: []
 })
 export class FormLibComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+   }
 
   ngOnInit() {
   }
