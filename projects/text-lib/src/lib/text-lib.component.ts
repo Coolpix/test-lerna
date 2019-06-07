@@ -3,7 +3,7 @@ import { Component, OnInit, Input } from '@angular/core';
 @Component({
   selector: 'lib-text-lib',
   template: `
-    <p>Hola</p>
+    <p>Adios</p>
     <div>{{customText}}</div>
   `,
   styles: []
