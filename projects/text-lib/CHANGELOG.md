@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.0.0](https://github.com/Coolpix/test-lerna/compare/@atmira/text-lib@0.0.5...@atmira/text-lib@1.0.0) (2019-06-07)
+
+
+### Features
+
+* **text component:** cambio en el texto ([6910258](https://github.com/Coolpix/test-lerna/commit/6910258))
+
+
+### BREAKING CHANGES
+
+* **text component:** jhwdfhdf
+
+
+
+
+
 ## 0.0.5 (2019-05-31)
 
 
